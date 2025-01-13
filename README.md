@@ -33,9 +33,11 @@
 - LaSalleTronix Oaxaca 2025 (Regional Stage)
   - Deadline: ----
   - Event: March
-- MakeX Mexico 2025 (National Stage)
-  - Deadline: April
-  - Event: May
+  - 
+** - MakeX Mexico 2025 (National Stage)
+  - Deadline: May 1st
+  - Event: 23,24,25 May **
+  - 
 - Semana de la Ingenieria en Electronica y Mecatronica – UTM (Local stage)
   - Deadline: ---
   - Event: April-May
