@@ -62,6 +62,22 @@
   - Spare pieces
   - Travel
  
+## Current infrestructure
+
+The current infrestructure allow us to participate in following red competencies,
+
+![image](https://github.com/user-attachments/assets/6619a93a-1e14-43f9-b325-accacbde4dff)
+
+Adding the mBot v2 we are enabled to run in double competencies covered more ages range (blue). Just FYI mBot v2 price is 140 USD from USA --- Around 200-250 Mexico suplier
+
+Rover kit is 2500 MX from online store in Mexico.
+
+Additional needs:
+
+- 3d Printer 
+- Wood crafting
+- All necessary to build mechanical parts
+ 
 ## Workaround
 
 Move forward into a robotic system usage in a day by day in school environment
