@@ -22,34 +22,38 @@ En programación usamos nombres descriptivos:
 ```python
 edad = 14
 velocidadDelAuto = 80
-
+```
 Evita nombres como x o dato1, ¡que no dicen mucho!
 
 📦 Pueden Guardar Diferentes Tipos de Datos
 Cada caja puede guardar un tipo diferente de contenido:
 
 Números (int, float)
-
+```
 python
 edadDelJugador = 14
 precio = 15.99
 puntuacion = 100
 Texto (string)
-
+```
+```
 python
 nombre = "María"
 mensaje = "¡Hola mundo!"
 Booleanos (True / False)
-
+```
+```
 python
 juegoTerminado = False
 estaLloviendo = True
+```
 🔄 El Contenido Puede Cambiar
 Puedes modificar lo que hay dentro de una caja:
-
+```
 python
 puntuacion = 50
 puntuacion = 100  # El jugador ganó más puntos
+```
 Por eso se llaman variables, porque su valor puede variar.
 
 🧠 ¿Para qué Usamos Variables?
@@ -64,15 +68,18 @@ Personalizar programas según cada persona.
 Realizar cálculos, comparaciones y tomar decisiones.
 
 🔮 Ejemplo Mágico: ¡Hola [tu nombre]!
+```
 python
 miNombre = "Ana"
 print("Hola " + miNombre)
+```
 💬 Resultado: Hola Ana
 
 Cambia el contenido:
-
+```
 python
 miNombre = "Juan"
+```
 💬 Resultado: Hola Juan
 
 ✨ En Resumen
