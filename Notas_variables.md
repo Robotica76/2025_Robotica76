@@ -29,28 +29,24 @@ Evita nombres como x o dato1, ¡que no dicen mucho!
 Cada caja puede guardar un tipo diferente de contenido:
 
 Números (int, float)
-```
-python
+```python
 edadDelJugador = 14
 precio = 15.99
 puntuacion = 100
 Texto (string)
 ```
-```
-python
+```python
 nombre = "María"
 mensaje = "¡Hola mundo!"
 Booleanos (True / False)
 ```
-```
-python
+```python
 juegoTerminado = False
 estaLloviendo = True
 ```
 🔄 El Contenido Puede Cambiar
 Puedes modificar lo que hay dentro de una caja:
-```
-python
+```python
 puntuacion = 50
 puntuacion = 100  # El jugador ganó más puntos
 ```
@@ -68,16 +64,14 @@ Las variables sirven para:
 * ealizar cálculos, comparaciones y tomar decisiones.
 
 🔮 Ejemplo Mágico: ¡Hola [tu nombre]!
-```
-python
+```python
 miNombre = "Ana"
 print("Hola " + miNombre)
 ```
 💬 Resultado: Hola Ana
 
 Cambia el contenido:
-```
-python
+```python
 miNombre = "Juan"
 ```
 💬 Resultado: Hola Juan
