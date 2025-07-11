@@ -1,3 +1,4 @@
+<!---
 # 2025 Work Schedule
 
 ## Current Organization (January 2025)
@@ -87,8 +88,13 @@ Online system to connect parent to kids' location inside the school:
  - Webdev
  - Algorithms to record data and analyze the data
 
+--->
 
 
+# 2025 Notes:
+
+* Variables -> [here](https://github.com/Robotica76/2025_Robotica76/blob/main/Notas_variables.md)
+* Senales digitales y analogicas -> [here](https://github.com/Robotica76/2025_Robotica76/blob/main/Notas_senales.md)
 
 
 
