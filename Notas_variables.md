@@ -59,13 +59,13 @@ Por eso se llaman variables, porque su valor puede variar.
 🧠 ¿Para qué Usamos Variables?
 Las variables sirven para:
 
-Guardar información del usuario, del juego, etc.
+* Guardar información del usuario, del juego, etc.
 
-Reutilizar datos sin tener que escribirlo muchas veces.
+* Reutilizar datos sin tener que escribirlo muchas veces.
 
-Personalizar programas según cada persona.
+* Personalizar programas según cada persona.
 
-Realizar cálculos, comparaciones y tomar decisiones.
+* ealizar cálculos, comparaciones y tomar decisiones.
 
 🔮 Ejemplo Mágico: ¡Hola [tu nombre]!
 ```
@@ -85,13 +85,13 @@ miNombre = "Juan"
 ✨ En Resumen
 Las variables son:
 
-Cajas mágicas con nombre (etiquetas)
+* Cajas mágicas con nombre (etiquetas)
 
-Que pueden guardar números, texto o booleanos
+* Que pueden guardar números, texto o booleanos
 
-Su contenido puede cambiar
+* Su contenido puede cambiar
 
-Son clave para hacer programas interactivos y dinámicos
+* Son clave para hacer programas interactivos y dinámicos
 
 🧙‍♀️ La próxima vez que veas una variable en un programa, piensa en ella como una caja mágica que guarda un secreto... ¡Un secreto que el programa usará para hacer cosas increíbles!
 
